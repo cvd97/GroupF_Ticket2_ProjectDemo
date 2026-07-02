@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/codyv/Downloads/GroupF_Ticket2_ProjectDemo/backend/.venv"
+VIRTUAL_ENV="/Users/codyv/Desktop/University/Summer_2026/GroupF_Ticket2_ProjectDemo/GroupF_Ticket2_ProjectDemo/backend/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
