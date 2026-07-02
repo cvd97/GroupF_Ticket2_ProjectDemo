@@ -69,7 +69,7 @@ http://localhost:5173
 
 ## Real email later
 
-The demo uses console email by default. For real email, set SMTP values in `backend/.env.example` and change the email backend to SMTP. Do not commit real passwords or API keys.
+The demo uses console email by default. For real email, set SMTP values in `backend/.env.example` and change the email backend to SMTP.
 
 ## Recommended GitHub commands
 
